@@ -17,8 +17,9 @@ conversão da página atual é de 13% em média, no último ano.</p>
 a nova página de vendas, desenvolvida pelo time de UX, seria um sucesso se a
 sua taxa de conversão fosse de 15%.</p>
 <p>O teclado bluetooth possui um preço de venda de R$ 4.500,00 à vista ou
-parcelado em 12% sem juros no cartão de crédito.Conteúdo licenciado para Thales Henrique Dias Pinto - 424.085.228-54
-Aula #1: O problema de negócio2Antes de trocar a página de vendas antiga pela nova, o product manager
+parcelado em 12% sem juros no cartão de crédito.</p>
+
+<p>Antes de trocar a página de vendas antiga pela nova, o product manager
 gostaria de testar a efetividade da nova página em um grupo menor de clientes,
 a fim de correr menos riscos de queda da conversão, caso a página nova mostre
 uma conversão pior do que a página atual.</p>
