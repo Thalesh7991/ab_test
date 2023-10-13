@@ -1,4 +1,4 @@
-# Teste A/B para E-Commerce
+# Teste A/B para E-Commerce (Em desenvolvimento...)
 
 ![Image1](/images/test_ab_image.jpg)
 
